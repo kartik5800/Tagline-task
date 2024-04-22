@@ -1,6 +1,15 @@
-# React + Vite
+# React Vite Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React project created with Vite.
+
+Project Title:tagline-practical
+
+## Getting Started
+
+To get started, clone this repository and run the following commands:
+
+npm install
+npm run dev
 
 Currently, two official plugins are available:
 
